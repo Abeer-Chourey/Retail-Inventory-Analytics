@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Jupyter temporary files
+*.tmp
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache / metadata
+.pytest_cache/
+.mypy_cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.bak
+*.swp
