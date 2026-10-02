@@ -1,3 +1,7 @@
+<img width="1286" height="727" alt="image" src="https://github.com/user-attachments/assets/b3836106-6206-4641-8e07-d48433f8a3b5" />
+<img width="1286" height="725" alt="image" src="https://github.com/user-attachments/assets/94821c6e-a851-4721-bf19-a58185da2bc2" />
+
+
 \# Retail Inventory Analytics
 
 
